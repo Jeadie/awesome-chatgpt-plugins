@@ -8,8 +8,14 @@
 ## Contents
 - [Plugins](#plugins)
 - [Demos](#demos)
+- [Tutorials](#tutorials)
 - [Blog Posts](#blog-posts)
 - [Documentation](#documentation)
+
+### What is a ChatGPT Plugin?
+[![What is a ChatGPT Plugin?](https://res.cloudinary.com/marcomontalbano/image/upload/v1679667398/video_to_markdown/images/video--a267d1cba9d59411634ce2088744acf9-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://cdn.openai.com/chat-plugins/retrieval-gh-repo-readme/Retrieval-Final.mp4 "What is a ChatGPT Plugin?")
+---
+
 
 ## Plugins
  - [Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
