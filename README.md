@@ -38,7 +38,11 @@
  - [Making a ChatGPT Plugin using GPT4](https://twitter.com/danielgross/status/1639040289816866818)
 
 ## Blog Posts
- - [ChatGPT plugins (Announcement Post) ](https://openai.com/blog/chatgpt-plugins)
+ - [ChatGPT plugins (Announcement Post)](https://openai.com/blog/chatgpt-plugins)
+ 
+ <script defer data-domain="awesome-chatgpt-plugins" src="https://analytics.jeadie.xyz/js/script.js"></script>
+
+
 
 ## Documentation
  - [OpenAI Plugin Docs](https://platform.openai.com/docs/plugins/introduction)
