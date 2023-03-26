@@ -6,6 +6,7 @@
 
 
 ## Contents
+- [Official Plugins](#plugins)
 - [Plugins](#plugins)
 - [Demos](#demos)
 - [Tutorials](#tutorials)
@@ -17,11 +18,14 @@
 ---
 
 
-## Plugins
+## Official Plugins
  - [Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
  - [Browsing](https://openai.com/blog/chatgpt-plugins#browsing): An experimental model that knows when and how to browse the internet
-* [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter): An experimental ChatGPT model that can use Python, handle uploads and downloads
+ - [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter): An experimental ChatGPT model that can use Python, handle uploads and downloads
+
+## Plugins:
 - [Twilio Plugin](https://gist.github.com/danielgross/0e7a00ea882797acd92ae6779126abe3)
+- [Simple TODO list](https://github.com/lencx/chat-todo-plugin)
 
 ## Demos
 - [Restaurant booking](https://twitter.com/gdb/status/1638949234681712643)
