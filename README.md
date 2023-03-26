@@ -21,6 +21,13 @@
 - [Retrieval](https://cdn.openai.com/chat-plugins/retrieval-gh-repo-readme/Retrieval-Final.mp4)
 - [On-demand video processing](https://twitter.com/gdb/status/1638971232443076609)
 - [Summarizing a HackerNews thread](https://twitter.com/gdb/status/1638986918947082241)
+- [Official Zapier Integration](https://twitter.com/wadefoster/status/1638958299935801344)
+- [Hacker News Summarisation](https://twitter.com/gdb/status/1638986918947082241)
+- [Video File Processing](https://twitter.com/gdb/status/1638971232443076609)
+- [LangChain + Retrieval Plugin](https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c)
+
+## Tutorials
+ - [Building a LangChain Docs Plugin for ChatGPT](https://github.com/pinecone-io/examples/blob/master/generation/chatgpt/plugins/langchain-docs-plugin.ipynb)
 
 ## Blog Posts
  - [ChatGPT plugins (Announcement Post) ](https://openai.com/blog/chatgpt-plugins)
