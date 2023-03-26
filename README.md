@@ -25,7 +25,8 @@
 
 ## Plugins:
 - [Twilio Plugin](https://gist.github.com/danielgross/0e7a00ea882797acd92ae6779126abe3)
-- [Simple TODO list](https://github.com/lencx/chat-todo-plugin)
+- [Simple TODO list](https://github.com/lencx/chat-todo-plugin): Plugin for managing a TODO list
+- [Datasette](https://github.com/simonw/datasette-chatgpt-plugin): A Datasette plugin that turns a Datasette instance into a ChatGPT plugin
 
 ## Demos
 - [Restaurant booking](https://twitter.com/gdb/status/1638949234681712643)
