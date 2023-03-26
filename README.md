@@ -40,9 +40,7 @@
 ## Blog Posts
  - [ChatGPT plugins (Announcement Post)](https://openai.com/blog/chatgpt-plugins)
  
- <script defer data-domain="awesome-chatgpt-plugins" src="https://analytics.jeadie.xyz/js/script.js"></script>
-
-
+<script defer data-domain="github.com/jeadie/awesome-chatgpt-plugins" src="https://analytics.jeadie.xyz/js/script.js"></script>
 
 ## Documentation
  - [OpenAI Plugin Docs](https://platform.openai.com/docs/plugins/introduction)
