@@ -21,6 +21,7 @@
  - [Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
  - [Browsing](https://openai.com/blog/chatgpt-plugins#browsing): An experimental model that knows when and how to browse the internet
 * [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter): An experimental ChatGPT model that can use Python, handle uploads and downloads
+- [Twilio Plugin](https://gist.github.com/danielgross/0e7a00ea882797acd92ae6779126abe3)
 
 ## Demos
 - [Restaurant booking](https://twitter.com/gdb/status/1638949234681712643)
@@ -30,10 +31,11 @@
 - [Official Zapier Integration](https://twitter.com/wadefoster/status/1638958299935801344)
 - [Hacker News Summarisation](https://twitter.com/gdb/status/1638986918947082241)
 - [Video File Processing](https://twitter.com/gdb/status/1638971232443076609)
-- [LangChain + Retrieval Plugin](https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c)
 
 ## Tutorials
- - [Building a LangChain Docs Plugin for ChatGPT](https://github.com/pinecone-io/examples/blob/master/generation/chatgpt/plugins/langchain-docs-plugin.ipynb)
+ - [Building a ChatGPT + Pinecone LangChain Docs Plugin](https://github.com/pinecone-io/examples/blob/master/generation/chatgpt/plugins/langchain-docs-plugin.ipynb)
+ - [LangChain + Retrieval Plugin](https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c)
+ - [Making a ChatGPT Plugin using GPT4](https://twitter.com/danielgross/status/1639040289816866818)
 
 ## Blog Posts
  - [ChatGPT plugins (Announcement Post) ](https://openai.com/blog/chatgpt-plugins)
