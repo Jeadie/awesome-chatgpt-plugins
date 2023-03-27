@@ -38,6 +38,7 @@
 - [Video File Processing](https://twitter.com/gdb/status/1638971232443076609)
 
 ## Tutorials
+ - [Extending ChatGPT with a Qdrant-based knowledge base](https://qdrant.tech/articles/chatgpt-plugin/)
  - [Building a ChatGPT + Pinecone LangChain Docs Plugin](https://github.com/pinecone-io/examples/blob/master/generation/chatgpt/plugins/langchain-docs-plugin.ipynb)
  - [LangChain + Retrieval Plugin](https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c)
  - [Making a ChatGPT Plugin using GPT4](https://twitter.com/danielgross/status/1639040289816866818)
