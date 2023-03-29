@@ -46,6 +46,7 @@
 
 ## Blog Posts
  - [ChatGPT plugins (Announcement Post)](https://openai.com/blog/chatgpt-plugins)
+ - [The Future of ChatGPT Plugins, from Jailbroken Prompts](https://app.orchard.ink/view/jailbreaking-chatgpt-plugin-a5b73bfb776948e68c1685b4d9572a70)
 
 
 ## Documentation
