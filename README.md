@@ -28,6 +28,7 @@
 - [Simple TODO list](https://github.com/lencx/chat-todo-plugin): Plugin for managing a TODO list
 - [Datasette](https://github.com/simonw/datasette-chatgpt-plugin): A Datasette plugin that turns a Datasette instance into a ChatGPT plugin
 - [Airports](https://github.com/drnic/airports-chatgpt-plugin): Plugin to provide airport information, GPS position, that combines with ChatGPT's ability to calculate routes, times, headings, etc.
+- [Google Search Plugin](https://github.com/Sogody/google-chatgpt-plugin): A plugin that uses Google Custom Search API to search the web
 
 ## Demos
 - [Restaurant booking](https://twitter.com/gdb/status/1638949234681712643)
@@ -44,7 +45,7 @@
  - [LangChain + Retrieval Plugin](https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c)
  - [Making a ChatGPT Plugin using GPT4](https://twitter.com/danielgross/status/1639040289816866818)
  - [Langchain on top of ChatGPT Plugins](https://python.langchain.com/en/latest/modules/agents/examples/chatgpt_plugins.html): how to use ChatGPT Plugins within LangChain abstractions.
- - [Write ChatGPT plugin in Ruby and Sinatra)(https://github.com/drnic/ruby-chatgpt-plugin-random-numbers)
+ - [Write ChatGPT plugin in Ruby and Sinatra](https://github.com/drnic/ruby-chatgpt-plugin-random-numbers)
 
 ## Blog Posts
  - [ChatGPT plugins (Announcement Post)](https://openai.com/blog/chatgpt-plugins)
