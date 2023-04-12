@@ -27,6 +27,7 @@
 - [Twilio Plugin](https://gist.github.com/danielgross/0e7a00ea882797acd92ae6779126abe3)
 - [Simple TODO list](https://github.com/lencx/chat-todo-plugin): Plugin for managing a TODO list
 - [Datasette](https://github.com/simonw/datasette-chatgpt-plugin): A Datasette plugin that turns a Datasette instance into a ChatGPT plugin
+- [Airports](https://github.com/drnic/airports-chatgpt-plugin): Plugin to provide airport information, GPS position, that combines with ChatGPT's ability to calculate routes, times, headings, etc.
 - [Google Search Plugin](https://github.com/Sogody/google-chatgpt-plugin): A plugin that uses Google Custom Search API to search the web
 
 ## Demos
