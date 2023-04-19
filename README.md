@@ -41,6 +41,8 @@
 - [Official Zapier Integration](https://twitter.com/wadefoster/status/1638958299935801344)
 - [Hacker News Summarisation](https://twitter.com/gdb/status/1638986918947082241)
 - [Video File Processing](https://twitter.com/gdb/status/1638971232443076609)
+- [Competitor PPC Ads](https://twitter.com/saad_codes/status/1645908869800144896?s=20)
+
 
 ## Tutorials
  - [Extending ChatGPT with a Qdrant-based knowledge base](https://qdrant.tech/articles/chatgpt-plugin/)
