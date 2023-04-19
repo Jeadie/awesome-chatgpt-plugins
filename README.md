@@ -23,6 +23,9 @@
  - [Browsing](https://openai.com/blog/chatgpt-plugins#browsing): An experimental model that knows when and how to browse the internet
  - [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter): An experimental ChatGPT model that can use Python, handle uploads and downloads
 
+## Unofficial Plugin Store
+- [GPT Plugins Store](https://www.getit.ai/gpt-plugins): Plugins and API available.
+
 ## Plugins:
 - [Twilio Plugin](https://gist.github.com/danielgross/0e7a00ea882797acd92ae6779126abe3)
 - [Simple TODO list](https://github.com/lencx/chat-todo-plugin): Plugin for managing a TODO list
