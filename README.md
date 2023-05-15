@@ -25,6 +25,7 @@
 
 ## Unofficial Plugin Store
 - [GPT Plugins Store](https://www.getit.ai/gpt-plugins): Plugins and API available.
+- [Plugin list (unofficial)](https://github.com/jopilot-net/jopilot-4-job-seekers/blob/main/chat-gpt-plugins.md)
 
 ## Plugins:
 - [Twilio Plugin](https://gist.github.com/danielgross/0e7a00ea882797acd92ae6779126abe3)
