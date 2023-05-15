@@ -45,6 +45,7 @@
 
 
 ## Tutorials
+ - [(Official) Get a ChatGPT plugin up and running in under 5 minutes!](https://github.com/openai/plugins-quickstart)
  - [Extending ChatGPT with a Qdrant-based knowledge base](https://qdrant.tech/articles/chatgpt-plugin/)
  - [Building a ChatGPT + Pinecone LangChain Docs Plugin](https://github.com/pinecone-io/examples/blob/master/generation/chatgpt/plugins/langchain-docs-plugin.ipynb)
  - [LangChain + Retrieval Plugin](https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c)
