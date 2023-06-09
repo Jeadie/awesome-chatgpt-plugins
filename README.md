@@ -51,7 +51,7 @@
  - [Building a ChatGPT + Pinecone LangChain Docs Plugin](https://github.com/pinecone-io/examples/blob/master/generation/chatgpt/plugins/langchain-docs-plugin.ipynb)
  - [LangChain + Retrieval Plugin](https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c)
  - [Making a ChatGPT Plugin using GPT4](https://twitter.com/danielgross/status/1639040289816866818)
- - [Langchain on top of ChatGPT Plugins](https://python.langchain.com/en/latest/modules/agents/examples/chatgpt_plugins.html): how to use ChatGPT Plugins within LangChain abstractions.
+ - [Langchain on top of ChatGPT Plugins](https://python.langchain.com/en/latest/modules/agents/tools/examples/chatgpt_plugins.html): how to use ChatGPT Plugins within LangChain abstractions.
  - [Write ChatGPT plugin in Ruby and Sinatra](https://github.com/drnic/ruby-chatgpt-plugin-random-numbers)
 
 ## Blog Posts
