@@ -33,6 +33,7 @@
 - [Datasette](https://github.com/simonw/datasette-chatgpt-plugin): A Datasette plugin that turns a Datasette instance into a ChatGPT plugin
 - [Airports](https://github.com/drnic/airports-chatgpt-plugin): Plugin to provide airport information, GPS position, that combines with ChatGPT's ability to calculate routes, times, headings, etc.
 - [Google Search Plugin](https://github.com/Sogody/google-chatgpt-plugin): A plugin that uses Google Custom Search API to search the web
+- [Arch Tools](https://archtools.dev): 61 AI tools API (code analysis, web scraping, image generation, NLP, crypto, search) via REST + MCP protocol with x402 USDC micropayments
 
 ## Demos
 - [Restaurant booking](https://twitter.com/gdb/status/1638949234681712643)
