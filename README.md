@@ -33,6 +33,7 @@
 - [Datasette](https://github.com/simonw/datasette-chatgpt-plugin): A Datasette plugin that turns a Datasette instance into a ChatGPT plugin
 - [Airports](https://github.com/drnic/airports-chatgpt-plugin): Plugin to provide airport information, GPS position, that combines with ChatGPT's ability to calculate routes, times, headings, etc.
 - [Google Search Plugin](https://github.com/Sogody/google-chatgpt-plugin): A plugin that uses Google Custom Search API to search the web
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Financial intelligence MCP server: ML options pricing, news bias analysis (15+ dimensions across 5000+ sources), AI-generated bull/bear cases with probability scenarios. Works with ChatGPT via MCP.
 
 ## Demos
 - [Restaurant booking](https://twitter.com/gdb/status/1638949234681712643)
